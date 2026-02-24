@@ -119,32 +119,36 @@ L'ultima analisi condotta è stata quella inerente al RFM Score, dove ogni clien
 
 
 
-**Struttura del repository:**
+\## Struttura del repository
+
+
 
 ```
 
 online-retail-eda/
 
-│
+│   .gitignore
 
-├─ notebooks/
+│   README.md
 
-│  └─ online\_retail\_eda.ipynb
-
-│
-
-├─ data/
-
-│  └─ Online Retail.xlsx
+│   requirements.txt
 
 │
 
-├─ .gitignore
+├───data
 
-├─ README.md
+│   └─── Online Retail.xlsx
 
-└─ requirements.txt
+│
+
+└───notebooks
+
+&nbsp;   └─── online\_retail\_eda.ipynb
+
+
 
 ```
+
+
 
 
