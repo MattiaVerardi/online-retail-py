@@ -46,7 +46,7 @@ L'attività dell'azienda si focalizza nel proprio paese di origine, dove si conc
 
 L'analisi condotta sui prodotti non evidenzia best seller degni di nota: si pensi che i top 10 prodotti più venduti per quantità e fatturato incidono per un 10% sul fatturato globale dell'azienda.
 
-Lato clientela, l'analisi dei top 10 spender ha evidenziato che realizzano meno del 20% del fatturato globale. La distribuzione delle vendite per cliente è anch'essa asimmetricamente positiva, con una lunga coda a destra dove si ritrova quel ristretto numero di clienti con livelli di spesa significativamente superiori alla media. Dalla Pareto Analysis, viene fuori che l'80% del fatturato è generato dal 25-30% dei clienti.
+Lato clientela, l'analisi dei top 10 spender ha evidenziato che realizzano meno del 20% del fatturato globale. La distribuzione delle vendite per cliente è anch'essa asimmetricamente positiva, con una lunga coda a destra dove si ritrova quel ristretto numero di clienti con livelli di spesa significativamente superiori alla media. Dalla Pareto Analysis, viene fuori che l'80% del fatturato è generato dal 26% dei clienti.
 
 L'ultima analisi condotta è stata quella inerente al RFM Score, dove ogni cliente è stato classificato per frequenza d'ordine, volume di acquisto e capacità di spesa. Sono 11 le categorie riconosciute, e vanno da *Champion* (quella con lo score più alto) a *Lost* (ossia quei clienti ormai persi).
 
@@ -58,7 +58,7 @@ L'ultima analisi condotta è stata quella inerente al RFM Score, dove ogni clien
 * L'85% del fatturato è prodotto dal mercato locale (Regno Unito)
 * Nonostante la concentrazione nel Regno Unito, l'Irlanda risulta essere il paese con la più alta spesa media per cliente, mentre l'Inghilterra si colloca alla 20° posizione
 * Il fatturato è fortemente concentrato: lo 0,2% dei clienti genera circa il 17% del fatturato totale
-* L'80% del fatturato complessivo è prodotto da circa il 25-30% della clientela
+* L'80% del fatturato complessivo è prodotto da circa il 26% della clientela
 * 540 clienti risultano classificati come *Champion* secondo il modello RFM
 
 
