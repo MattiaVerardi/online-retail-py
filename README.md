@@ -59,7 +59,7 @@ L'ultima analisi condotta è stata quella inerente al RFM Score, dove ogni clien
 * Nonostante la concentrazione nel Regno Unito, l'Irlanda risulta essere il paese con la più alta spesa media per cliente, mentre l'Inghilterra si colloca alla 20° posizione
 * Il fatturato è fortemente concentrato: lo 0,2% dei clienti genera circa il 17% del fatturato totale
 * L'80% del fatturato complessivo è prodotto da circa il 26% della clientela
-* 540 clienti risultano classificati come *Champion* secondo il modello RFM
+* 538 clienti risultano classificati come *Champion* secondo il modello RFM
 
 
 
