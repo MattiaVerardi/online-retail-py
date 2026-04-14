@@ -77,24 +77,20 @@ L'ultima analisi condotta è stata quella inerente al RFM Score, dove ogni clien
 
 ```
 
-online-retail-eda/
-
-├── data/
-
-│   └─ Online Retail.xlsx
-
+online-retail-py/
 │
-
-├── notebooks
-
-│   └─ online\_retail\_eda.ipynb
-
+├──	data/
+│	│
+│	└─ online_retail.xlsx
 │
-
-├── .gitignore
-
-├── README.md
-
-└── requirements.txt
+├──	notebooks
+│	│
+│	└─ online_retail_py.ipynb
+│
+├──	.gitignore
+│
+├──	README.md
+│
+└──	requirements.txt
 
 ```
